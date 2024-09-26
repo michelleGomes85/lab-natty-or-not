@@ -1,4 +1,6 @@
-# Título do Projeto: Extremamente Aesthetic ;
+# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas****
+
+**Projeto usando Gamma para criar um site explicativo sobre IA** 
 
 ## 📒 Descrição
 Este projeto tem como objetivo demonstrar a capacidade das IAs generativas na criação de conteúdo realista e de alta qualidade. Para isso, foi desenvolvido um site utilizando a ferramenta **Gamma**, onde o conteúdo gerado explora o conceito de Inteligência Artificial (IA), sua importância em diversos setores e os desafios éticos envolvidos no uso da IA. O projeto busca mostrar como o material criado por uma IA pode ser convincente e informativo, ao ponto de ser indistinguível de algo escrito por um humano.
