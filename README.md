@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas****
+# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 **Projeto usando Gamma para criar um site explicativo sobre IA** 
 
